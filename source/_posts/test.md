@@ -10,3 +10,4 @@ how are you?
 
 试试图片
 {% asset_img 1.png This is an example image %}
+{% asset_img 2.jpg This is an example image %}
