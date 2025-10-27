@@ -1,13 +1,13 @@
-title: Hexo
+title: Gai_ding的论坛
 subtitle: ''
-description: ''
+description: '哇，你好呀我的朋友，欢迎来到我创建的论坛！'
 keywords: null
-author: John Doe
+author: Gai_ding
 language: en
-timezone: ''
+timezone: 'Asia/Shanghai'
 url: https://gaiding2007.github.io/Hexo
 root: /Hexo/
-permalink: ':year/:month/:day/:title/'
+permalink: ':year-:month-:day/:title/'
 permalink_defaults: null
 pretty_urls:
   trailing_index: true
